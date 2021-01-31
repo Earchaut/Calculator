@@ -16,5 +16,11 @@ namespace 计算器
         {
             InitializeComponent();
         }
+
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            this.linkLabel1.LinkVisited = true;
+            System.Diagnostics.Process.Start("https://github.com/hbsjzliuyang/Calculator");
+        }
     }
 }
