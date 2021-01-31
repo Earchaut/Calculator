@@ -69,21 +69,21 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(40, 168);
+            this.label3.Location = new System.Drawing.Point(24, 168);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(100, 15);
+            this.label3.Size = new System.Drawing.Size(116, 15);
             this.label3.TabIndex = 3;
-            this.label3.Text = "作者：  KSCN";
+            this.label3.Text = "作者：Earchaut";
             // 
             // linkLabel1
             // 
             this.linkLabel1.AutoSize = true;
             this.linkLabel1.Location = new System.Drawing.Point(168, 168);
             this.linkLabel1.Name = "linkLabel1";
-            this.linkLabel1.Size = new System.Drawing.Size(343, 15);
+            this.linkLabel1.Size = new System.Drawing.Size(311, 15);
             this.linkLabel1.TabIndex = 4;
             this.linkLabel1.TabStop = true;
-            this.linkLabel1.Text = "https://github.com/hbsjzliuyang/Calculator";
+            this.linkLabel1.Text = "https://github.com/Earchaut/Calculator";
             this.linkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel1_LinkClicked);
             // 
             // About
